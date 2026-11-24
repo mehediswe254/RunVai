@@ -1,4 +1,4 @@
-RunVai 2D - NEON ADVENTURE
+git push -u origin mainRunVai 2D - NEON ADVENTURE
 
 HOW TO PLAY
 - Desktop: press SPACE / UP ARROW to jump (press twice for double jump).
